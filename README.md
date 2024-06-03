@@ -1,5 +1,5 @@
 # Full-java-script-Code
-## Defferent Per chapter
+## Different Per chapter
 # 1. GETTING STARTED
 # 2. JAVASCRIPT FUNDAMENTALS
 # 3. JAVASCRIPT OPERATORS
